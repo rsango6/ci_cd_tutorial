@@ -1,7 +1,7 @@
 # test_bioinfo.py
 
 import pytest
-from ci_cd_tutorial.script.bioinfo import dna_to_rna, rna_to_amino_acid
+from script.bioinfo import dna_to_rna, rna_to_amino_acid
 
 
 def test_basic():
